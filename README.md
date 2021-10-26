@@ -1,5 +1,3 @@
-[원문: https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
-
 # Dabeeo JavaScript Style Guide() {
 
 Dabeeo Javascript 스타일 가이드는 [Airbnb Javascript 스타일 가이드](https://github.com/airbnb/javascript) 를 기본으로 작성되었습니다.
